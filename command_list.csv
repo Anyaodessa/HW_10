@@ -1,0 +1,193 @@
+    1  cd C:\Users\Documents
+    2  cd C:\Users\Anna\Documents
+    3  cd
+    4  ls
+    5  cd Desktop/
+    6  cd Desktop/
+    7  brew install --cask dbeaver-community
+    8  brew install --cask dbeaver-community
+    9  brew install --cask dbeaver-community)
+   10  brew install --cask dbeaver-community
+   11  d
+   12  man ls
+   13  ls
+   14  ls
+   15  cd desktop
+   16  ls
+   17  ls
+   18  ls documents
+   19  cd desktop
+   20  cd ..
+   21  ls
+   22  ls
+   23  cd desctop
+   24  cd desktop
+   25  ls
+   26  cd-
+   27  cd ..
+   28  ls
+   29  cd documents
+   30  ls
+   31  cd Clear
+   32  clear
+   33  ls
+   34  cd desctop
+   35  ls
+   36  touch anna.txt
+   37  ls
+   38  pwd
+   39  vim anna.txt
+   40  vim anna.txt
+   41  nano anna2.txt
+   42  cat empty.txt
+   43  cat anna2.txt
+   44  nano anna2.txt
+   45  nano anna.txt
+   46  nano anna.txt
+   47  cat anna.txt
+   48  cat anna.txt
+   49  pwd
+   50  cp /Users/anna/document/ anna.txt /Users/anna/downloads
+   51  cp /Users/anna/documents/anna.txt /Users/anna/downloads
+   52  pwd
+   53  mv /Users/anna/documents/anna.txt /Users/anna/downloads
+   54  mv /Users/anna/downloads/anna.txt /Users/anna/documents
+   55  rm anna.txt
+   56  cler
+   57  clear
+   58  cd desktop
+   59  ls
+   60  cd desktop
+   61  mkdir git
+   62  ls
+   63  pwd
+   64  mv /Users/anna/documents/git.txt /Users/anna/desktop
+   65  pwd
+   66  mv /Users/anna/documents/git /Users/anna/desktop
+   67  clear
+   68  ls
+   69  cd desktop
+   70  pwd
+   71  desktop
+   72  cd desktop
+   73  ls
+   74  pwd
+   75  cd desktop
+   76  ls
+   77  clear
+   78  cd git
+   79  cd git
+   80  desktop
+   81  cd-desktop
+   82  ls
+   83  pwd
+   84  desktop % cd git
+   85  cd -/desktop
+   86  clear
+   87  cd-/Desktop
+   88  pwd
+   89  cd/Desktop
+   90  cd/Рабочий\стол
+   91  ls
+   92  cd~/Desktop
+   93  clear
+   94  ls
+   95  clear
+   96  cd ~/Desktop
+   97  cd git
+   98  pwd
+   99  clear
+  100  cd ~/Desktop
+  101  cd git
+  102  clear
+  103  git --Version
+  104  git --Version
+  105  git -Version
+  106  clear
+  107  git --version
+  108  git config --global user.name "Anna Poliakova"
+  109  git config --global user.email anita210182@yahoo.es
+  110  pwd
+  111  git clone https://github.com/Anyaodessa/Lesson1.git
+  112  cd lesson1
+  113  git status
+  114  touch nuevodocumento.txt
+  115  git status
+  116  git add nuevodocumento.txt
+  117  git status
+  118  git commit -m "new file created"
+  119  git status
+  120  git log
+  121  git branch
+  122  git checkout -b new_branch
+  123  git branch 
+  124  git checkout mail
+  125  git checkout main
+  126  git branch
+  127  git checkout new_branch
+  128   nano Nuevodocumento.txt
+  129  git status
+  130  git commit -m "Nuevo Documento modified"
+  131  git branch
+  132  git checkout main
+  133  git merge new_branch
+  134  git branch
+  135  git status
+  136  git commit -m "fixed"
+  137  git checkout new_branch
+  138  git merge main
+  139  git status
+  140  git commit
+  141  git checkout main
+  142  git status
+  143  git commit -m "nuevo documento modified"
+  144  git add Nuevodocumento.txt
+  145  git status
+  146  git add Nuevodocumento.txt
+  147  git status
+  148  git add nuevodocumento.txt
+  149  git status
+  150  git commit -m "nuevo documento modified"
+  151  clear
+  152  ls
+  153  cd~/Desktop
+  154  cd ~/Desktop
+  155  ls
+  156  cd git
+  157  history -c && rm ~/.bash_history
+  158  cd history -c && rm ~/.bash_history
+  159  git status
+  160  history -c && rm ~/.bash_history
+  161  cd history -c && rm ~/.bash_history
+  162  git status
+  163  git clone https://github.com/Anyaodessa/HW_10.git
+  164  pwd
+  165  cd hw_10
+  166  pwd
+  167  touch text_ignore.txt
+  168  git status
+  169  git add
+  170  git add text_ignore.txt
+  171  nano .gitignore
+  172  git status
+  173  git add .gitignore
+  174  git commit -m(done)
+  175  git status
+  176   pwd
+  177  touch main_text.txt
+  178  git add main_text.txt
+  179  git status
+  180  git commit -m(done)
+  181  git checkout -b develop
+  182  git checkout develop
+  183  touch develop_test.txt
+  184  git status
+  185  git add develop_test.txt
+  186  git commit -m(done)
+  187  nano develop_test.txt
+  188  git status
+  189  git add develop_test.txt
+  190  git commit -m(done)
+  191  git checkout main
+  192  git merge develop
+  193  git log
