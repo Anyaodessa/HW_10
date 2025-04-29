@@ -1,2 +1,2 @@
 # HW_10
-my homework for GOIT
+Project2025
